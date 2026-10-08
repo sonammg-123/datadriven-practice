@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-08 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-06 |
 | [The Alphabet Sorter](./practice/python/the-alphabet-sorter) | Python | Easy | 2026-10-04 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-10-04 |
