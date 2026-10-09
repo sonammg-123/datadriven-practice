@@ -1,6 +1,6 @@
 # cool_forge_4366's data engineering practice
 
-Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
+Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committed here as it is scored. Each folder holds the work exactly as submitted and the report it earned.
 
 <!-- datadriven:index:start -->
 
@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-09 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-08 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-06 |
 | [The Alphabet Sorter](./practice/python/the-alphabet-sorter) | Python | Easy | 2026-10-04 |
