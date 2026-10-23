@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Caesar Shift Check](./practice/python/caesar-shift-check) | Python | Easy | 2026-10-23 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-10 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-09 |
