@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-11-01 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Caesar Shift Check](./practice/python/caesar-shift-check) | Python | Easy | 2026-10-23 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-10-10 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-10-10 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-10-09 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-10-08 |
 | [Daily and Weekly Active Users](./practice/sql/daily-and-weekly-active-users) | SQL | Easy | 2026-10-06 |
