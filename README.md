@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-11-14 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-11-14 |
 | [The Longest Take](./practice/sql/the-longest-take) | SQL | Easy | 2026-11-01 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
