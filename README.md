@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-11-16 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-11-16 |
 | [Between Worlds](./practice/sql/between-worlds) | SQL | Easy | 2026-11-16 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-11-16 |
