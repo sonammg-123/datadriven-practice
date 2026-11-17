@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-17 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-17 |
 | [Budget-Friendly Products](./practice/sql/budget-friendly-products) | SQL | Easy | 2026-11-16 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-11-16 |
