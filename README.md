@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-20 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-19 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-11-18 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-17 |
