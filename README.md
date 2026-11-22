@@ -11,7 +11,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-20 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-19 |
 | [Campaign Bookend Engagement](./practice/sql/campaign-bookend-engagement) | SQL | Hard | 2026-11-18 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-11-17 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-11-17 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-11-17 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-11-17 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-11-17 |
