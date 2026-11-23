@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/cool_forge_4366), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-11-23 |
 | [Daily Cross-Platform Users](./practice/sql/daily-cross-platform-users) | SQL | Easy | 2026-11-22 |
 | [Break Through](./practice/sql/break-through) | SQL | Medium | 2026-11-20 |
 | [Above Average Product Prices](./practice/sql/above-average-product-prices) | SQL | Medium | 2026-11-19 |
